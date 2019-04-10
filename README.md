@@ -31,7 +31,7 @@ node -v
 Entre na pasta da aplicação, abra o terminal e execute o arquivo 'app.js' com o nodemon:
 
 ```
-nodemon app.js
+node app.js
 ```
 
 
